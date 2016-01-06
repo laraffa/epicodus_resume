@@ -1,0 +1,47 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-image: url(http://subtlepatterns2015.subtlepatterns.netdna-cdn.com/patterns/dark_wood.png);
+}
+
+.header {
+  background-color: #607D8B;
+}
+
+.header h1 {
+  margin: 0;
+  padding: 0;
+  color: #FFF;
+  opacity: .75;
+}
+
+.nav ul li {
+  list-style: none;
+  display: inline;
+}
+
+.main-content {
+}
+
+.blog-post {
+  width: 75%;
+  margin-top: 25px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 2px;
+  background-color: #CFD8DC;
+}
+
+.aboutme {
+  width: 75%;
+  margin-top: 25px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 2px;
+  background-color: #78909C;
+}
+
+.aboutme p {
+  color: #FFF;
+  opacity: .70;
+}
