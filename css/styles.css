@@ -19,31 +19,33 @@ body {
 .nav ul li {
   list-style: none;
   display: inline;
+  margin-left: 20px;
 }
 
 .main-content {
   margin-top: 100px;
 }
 
-.blog-post {
+.zebra_one {
   width: 75%;
   margin-top: 25px;
   margin-left: auto;
   margin-right: auto;
   padding: 2px;
   background-color: #CFD8DC;
+  opacity: .75;
 }
 
-.aboutme {
+.zebra_two {
   width: 75%;
-  margin-top: 100px;
+  margin-top: 25px;
   margin-left: auto;
   margin-right: auto;
   padding: 2px;
   background-color: #78909C;
 }
 
-.aboutme {
+.zebra_two {
   color: #FFF;
   opacity: .70;
 }
